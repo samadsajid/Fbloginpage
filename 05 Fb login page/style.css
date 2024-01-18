@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(240, 242, 245);
+}
+
+.maindiv{
+    display: flex;
+    padding-top:11% ;
+}
+
+.facebook{
+    font-size: 65px;
+    color: rgb(8, 102, 255);
+    padding-left: 120px;
+}
+
+.text{
+    font-size: 35px;
+    padding-left: 120px;
+    word-spacing: 2px;
+    letter-spacing: 0.5px;
+    
+}
+
+.input{
+    width: 430px;
+    height: 59px;
+    border-radius: 7px;
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight:530;
+    border: 2px solid rgb(223, 224, 227);
+    
+}
+
+.button1{
+    background-color: rgb(24, 119, 242);
+    border: 2px solid rgb(24, 119, 242);
+    color: #fff;
+    width: 450px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.link{
+    color: rgb(24, 119, 242);
+    text-align: center;
+    font-size: 18px;
+}
+
+.button2{
+    background-color: rgb(66, 183, 42);
+    border: 2px solid rgb(66, 183, 42);
+    color: #fff;
+    width: 260px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.div2{
+    background-color: #fff;
+    width: 33%;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    box-shadow: 0.5px 0.5px 10px #888888a3;
+    margin-left: 150px;
+}
+
+.lasttext{
+    font-size: 19px;
+    letter-spacing: 0.5;
+    font-weight: 500;
+    margin-left: 60%;
+}
